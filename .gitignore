@@ -1,2 +1,4 @@
 *.py[cod]
 venv
+htdocs
+conf/octavo.yaml
